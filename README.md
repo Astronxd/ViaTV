@@ -31,6 +31,6 @@
 14. Install the app and open. Sign in and you are done.
 
 **Notes:**
-The app crashes: 
-Go to cloning mode in step 12 scroll down and tap on safe mode.
-Go to step 9 and check if you have entered correct MAC Address.
+The app crashes: </br>
+Go to cloning mode in step 12 scroll down and tap on safe mode.  </br>
+Go to step 9 and check if you have entered correct MAC Address.  </br>
