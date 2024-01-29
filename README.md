@@ -31,9 +31,7 @@
 14. Install the app and open. Sign in and you are done.</br>
 </br>
 
-![1](https://github.com/Astronxd/ViaTV/assets/32937797/e5df947d-3d66-4f17-84d4-75320760e438)
-![2](https://github.com/Astronxd/ViaTV/assets/32937797/abffad1d-bb9b-44f3-9f6f-40a267a21fdc)
-![3](https://github.com/Astronxd/ViaTV/assets/32937797/2644a4d7-f283-4d6c-91d9-e0761c27ed35)
+![image](https://github.com/Astronxd/ViaTV/assets/32937797/267b2917-fa1d-436f-927f-061ec4967fac)
 ![4](https://github.com/Astronxd/ViaTV/assets/32937797/5f46876e-948c-4012-ba93-68f0a6399037)
 ![5](https://github.com/Astronxd/ViaTV/assets/32937797/64ebba45-0cd4-4c95-b753-9345c8ee9120)
 
