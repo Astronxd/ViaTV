@@ -41,4 +41,5 @@
 <H2> The app crashes:</H2> </br>
 Go to cloning mode in step 12 scroll down and tap on safe mode.  </br>
 Go to step 9 and check if you have entered correct MAC Address.  </br>
+
 ![6](https://github.com/Astronxd/ViaTV/assets/32937797/d0c72efc-54e6-41df-8124-f182142c8689)
