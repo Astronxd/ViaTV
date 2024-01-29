@@ -31,13 +31,15 @@
 14. Install the app and open. Sign in and you are done.</br>
 </br>
 
-![image](https://github.com/Astronxd/ViaTV/assets/32937797/267b2917-fa1d-436f-927f-061ec4967fac)
-![4](https://github.com/Astronxd/ViaTV/assets/32937797/5f46876e-948c-4012-ba93-68f0a6399037)
-![5](https://github.com/Astronxd/ViaTV/assets/32937797/64ebba45-0cd4-4c95-b753-9345c8ee9120)
+![Image](https://github.com/Astronxd/ViaTV/assets/32937797/a48ea3df-410e-4932-8cce-ba1622e106bd)
+![Image](https://github.com/Astronxd/ViaTV/assets/32937797/804347aa-ac1b-4964-b86a-caf0ec3c5d43)
+
+
 
 
 <H2> The app crashes:</H2> </br>
 Go to cloning mode in step 12 scroll down and tap on safe mode.  </br>
 Go to step 9 and check if you have entered correct MAC Address.  </br>
 
-![6](https://github.com/Astronxd/ViaTV/assets/32937797/d0c72efc-54e6-41df-8124-f182142c8689)
+![Image](https://github.com/Astronxd/ViaTV/assets/32937797/d06697b9-b0e5-44b7-b224-976a66fef49a)
+
